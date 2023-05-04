@@ -1,0 +1,12 @@
+model\Conjunto.class
+model\Pessoa.class
+model\Venda.class
+control\Controller.class
+model\Roupa$TIPO.class
+model\Cliente.class
+model\Produto$TAMANHO.class
+model\Produto.class
+model\Vendedor.class
+view\Principal.class
+model\Roupa.class
+model\Uniforme.class
